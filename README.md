@@ -21,4 +21,10 @@ It extracts info like startup founded year , its category , investement type etc
  - extraction.py 
    - It uses python request libary to made a http request. 
    - Uses Beautiful soup to parse the html
+   
+ - transformer.py 
+   - It has two processing functions.
+      - Cleaning
+      - Re-ordering columns
+   - Uses Beautiful soup to parse the html   
 
