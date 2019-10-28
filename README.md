@@ -24,8 +24,14 @@ It extracts info like startup founded year , its category , investement type etc
    
  - transformer.py 
    - It has two processing .
-      - Formatted Founded year 
-      - Reorde the columns
+      - Formatted Founded year column
+      - Reorded the columns
  - analysis.py
     - it has function to generate the statistics of number of startups founded  each year
+    
+## Task2
+  - It includes the solution to the Task2
+ 
+## Task3 
+  - It includes the solution to Task3
 
