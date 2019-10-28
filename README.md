@@ -18,6 +18,6 @@ It extracts info like startup founded year , its category , investement type etc
 
 ## Technical Details
  - extraction.py 
-  - It uses python request libary to made a http request. 
-  - Uses Beautiful soup to parse the html
+   - It uses python request libary to made a http request. 
+   - Uses Beautiful soup to parse the html
 
