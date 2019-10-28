@@ -11,9 +11,9 @@ It extracts info like startup founded year , its category , investement type etc
 - cd hy_alex_springer_task
 - pip install -r requirements.txt
 - Run in order
- --python extraction.py -  Web extraction script
- --python transformer.py -  Transformers the extracted data
- --python analysis.py - Generates the statistics of number of startups founded in each year
+ -- python extraction.py -  Web extraction script
+ -- python transformer.py -  Transformers the extracted data
+ -- python analysis.py - Generates the statistics of number of startups founded in each year
 
 
 ## Technical Details
