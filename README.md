@@ -10,9 +10,10 @@ It extracts info like startup founded year , its category , investement type etc
 - git clone git@github.com:rajatgermany/hy_alex_springer_task.git
 - cd hy_alex_springer_task
 - pip install -r requirements.txt
-- python extraction.py -  Web extraction script
-- python transformer.py -  Transformers the extracted data
-- python analysis.py - Generates the statistics of number of startups founded in each year
+- Run in order
+ --python extraction.py -  Web extraction script
+ --python transformer.py -  Transformers the extracted data
+ --python analysis.py - Generates the statistics of number of startups founded in each year
 
 
 ## Technical Details
