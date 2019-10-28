@@ -23,8 +23,8 @@ It extracts info like startup founded year , its category , investement type etc
    - Uses Beautiful soup to parse the html
    
  - transformer.py 
-   - It has two processing functions.
-      - Cleaning
-      - Re-ordering columns
+   - It has two processing .
+      - Formatted Founded year 
+      - Reorde the columns
    - Uses Beautiful soup to parse the html   
 
