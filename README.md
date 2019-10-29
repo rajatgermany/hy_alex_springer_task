@@ -33,8 +33,8 @@ It extracts info like startup founded year , its category , investement type etc
     - it has function to generate the statistics of number of startups founded  each year
     
 ## Task2
-  - It includes the solution to the Task2
+  - Designed the solution for scalable web scraper
  
 ## Task3 
-  - It includes the solution to Task3
+  - Performed the naive analysis of investor startup-matching
 
